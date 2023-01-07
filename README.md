@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-Este es el primer repositorio para el curso de HENRY
+Este es una prueba de como el repositorio fue creado y clonado con exito a nuestro computador dando asi inicio al primer commit
